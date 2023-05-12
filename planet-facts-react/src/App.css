@@ -1,4 +1,18 @@
 .App {
   text-align: center;
+
 }
 
+
+
+ li {
+  display:inline;
+  float:right;
+  color:red;
+  background-color: aqua;
+}
+
+a {
+  display:block;
+  padding:1rem;
+}
