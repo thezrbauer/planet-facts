@@ -1,10 +1,12 @@
 import React from 'react';
-import {Navbar} from "./styles/Header.styled.js"
+import {Navbar, Icon} from "./styles/Header.styled.js"
 function Header(){
     return (
     <div>
-       
+       <div><Icon>The Planets</Icon></div>
+
         <ul >
+       
             <Navbar><a>Neptune</a>
             </Navbar>
             <Navbar><a>Uranus</a>
