@@ -2,20 +2,26 @@ import styled from "styled-components"
 
 export const Heading = styled.div`
 margin:1rem;
+
+width:full;
+
+border-bottom: .2rem white solid;
+height:6rem;
 `
 export const Navbar = styled.li`
 display:inline;
 float:right;
 color:#838391;
 font-size:1.5rem;
-bac
+
 `
 
-export const Icon = styled.span`
+export const Icon = styled.h2`
 float:left;
 color:#ffffff;
-font-size:3rem;
-margin:.4rem;
-background-color:clear;
+
+
+margin:1rem;
+
 `
 

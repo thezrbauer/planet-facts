@@ -6,9 +6,9 @@ import {Heading, Navbar, Icon} from "./styles/Header.styled.js"
 function Header(){
     return (
     <Heading>
-       <div><Icon>The Planets</Icon></div>
+       <div><Icon>THE PLANETS</Icon></div>
 
-        <ul >
+        <ul>
        
             <Navbar><a>Neptune</a>
             </Navbar>
