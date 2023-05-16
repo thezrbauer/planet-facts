@@ -1,20 +1,14 @@
-// import styled from "styled-components"
+import styled from "styled-components"
 
 
-// export const Navbar = styled.li`
-// display:inline;
-// float:right;
-// color:#838391;
-// font-size:1.5rem;
-// background:#070724;
+export const Wrapper = styled.div`
+display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  grid-auto-rows: minmax(400px, auto);
+`
 
-// `
+export const Details = styled.div`
+color:white;
 
-// export const Navbar = styled.li`
-// display:inline;
-// float:right;
-// color:#838391;
-// font-size:1.5rem;
-// background:#070724;
-
-// `
+`
