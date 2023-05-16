@@ -1,16 +1,21 @@
 import styled from "styled-components"
 
-
+export const Heading = styled.div`
+margin:1rem;
+`
 export const Navbar = styled.li`
 display:inline;
 float:right;
 color:#838391;
 font-size:1.5rem;
-background:#070724;
+bac
 `
 
 export const Icon = styled.span`
 float:left;
 color:#ffffff;
 font-size:3rem;
+margin:.4rem;
+background-color:clear;
 `
+

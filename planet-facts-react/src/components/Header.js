@@ -1,8 +1,11 @@
 import React from 'react';
-import {Navbar, Icon} from "./styles/Header.styled.js"
+import {Heading, Navbar, Icon} from "./styles/Header.styled.js"
+
+
+
 function Header(){
     return (
-    <div>
+    <Heading>
        <div><Icon>The Planets</Icon></div>
 
         <ul >
@@ -24,7 +27,7 @@ function Header(){
             <Navbar><a>Mercury</a>
             </Navbar>
         </ul>
-    </div>
+    </Heading>
     );
 }
 

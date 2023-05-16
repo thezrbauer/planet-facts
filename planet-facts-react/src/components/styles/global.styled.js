@@ -8,11 +8,13 @@ const GlobalStyle = createGlobalStyle`
   margin:0;
   padding:0;
   box-sizing: border-box;
+  background-color:#070724
+
 }
 
 body {
 
-    background:#070724;
+  
     text-align:center;
     font-family: 'Antonio', sans-serif;
     font-family: 'League Spartan', sans-serif;
