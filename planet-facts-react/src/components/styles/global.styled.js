@@ -19,7 +19,11 @@ h2 {
   letter-spacing: -1.5px;
   text-shadow: 2px 2px #ff00;
 }
-
+button {
+  width:100%;
+  
+  color:#ffffff;
+}
 body {
     text-align:center;
     font-family: 'Antonio', sans-serif;
