@@ -11,6 +11,11 @@ const GlobalStyle = createGlobalStyle`
   background-color:#070724
 
 }
+h1 {
+  font-size:80px;
+  font-family: 'Antonio', sans-serif;
+  line-height:103px;
+}
 
 h2 {
   font-family: 'Antonio', sans-serif;
@@ -19,6 +24,7 @@ h2 {
   letter-spacing: -1.5px;
   text-shadow: 2px 2px #ff00;
 }
+
 button {
   width:100%;
   

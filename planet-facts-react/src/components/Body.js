@@ -12,9 +12,11 @@ function Body(){
                    Its orbit around the Sun takes 87.97 Earth days, the shortest of all the Sun's planets.
                    Mercury is one of four terrestrial planets in the Solar System, and is a rocky body like Earth.</p>
                 </div>
-                <div classname="right-2nd-content"></div>
-            <Buttons><button>01 Overview</button> <button>02 Internal</button> <button>Structure 03</button> </Buttons>
-        </Details>
+                <div classname="right-2nd-content">Source Wikipedia</div>
+            <Buttons>
+            <button><p>01</p> <div>OVERVIEW</div></button> 
+            <button><p>02</p> <div>INTERNAL STRUCTURE</div></button>
+            <button><p>03</p> <div>SURFACE GEOLOGY</div></button></Buttons></Details>
         <Stats><div>Surface Geology Rotation Time 58.6 Days Revolution Time 87.97 Days Radius 2,439.7 KM Average Temp. 430°c</div>
         </Stats>
     </Wrapper>
